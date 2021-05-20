@@ -1,0 +1,17 @@
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.exe
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.deps.json
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.runtimeconfig.json
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.runtimeconfig.dev.json
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.dll
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\bin\Debug\netcoreapp3.1\Laba 3.pdb
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.csprojAssemblyReference.cache
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3_MarkupCompile.cache
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3_MarkupCompile.lref
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.g.resources
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.AssemblyInfoInputs.cache
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.AssemblyInfo.cs
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.dll
+C:\Users\olego\Desktop\Михальчук\Laba 3\Laba 3\obj\Debug\netcoreapp3.1\Laba 3.pdb
